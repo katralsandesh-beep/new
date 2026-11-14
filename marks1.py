@@ -15,7 +15,7 @@ if mark1 >= 35 and mark2 >= 35 and mark3 >= 35:
 else:
     result = "FAIL"
 
-print("\n----- Student Mark Details -----")
+print("\n----- Student Mark Details -----") 
 print("Student Name:", name)
 print("Subject 1:", mark1)
 print("Subject 2:", mark2)
